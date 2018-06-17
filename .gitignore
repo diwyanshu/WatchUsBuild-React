@@ -1,3 +1,5 @@
 node_modules
 npm-debug.log
 public/assets/js
+public/assets/images
+public/assets/videos
